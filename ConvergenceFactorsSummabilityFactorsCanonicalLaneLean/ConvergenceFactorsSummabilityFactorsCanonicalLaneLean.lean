@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ConvergenceFactorsSummabilityFactorsCanonicalLaneLean
+
+-- Root module
+
+end ConvergenceFactorsSummabilityFactorsCanonicalLaneLean
+end HautevilleHouse
